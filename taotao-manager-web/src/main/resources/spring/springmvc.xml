@@ -21,4 +21,12 @@
     <mvc:resources mapping="/js/**" location="/WEB-INF/js/"/> <!-- 在jsp页面请求/js/**时,都会映射到工程的/js/目录下 -->
     <mvc:resources mapping="/css/**" location="/WEB-INF/css/"/>
 
+    <!-- 定义(多)文件上传解析器 -->
+    <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+        <!-- 设定默认编码 -->
+        <property name="defaultEncoding" value="UTF-8"></property>
+        <!-- 设定文件上传的最大值5MB，5*1024*1024 -->
+        <property name="maxUploadSize" value="5242880"></property>
+    </bean>
+
 </beans>
