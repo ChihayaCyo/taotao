@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework:spring-aspects:4.1.3.RELEASE">
+    <CLASSES>
+      <root url="jar://D:/j2ee_environment_config/maven-3.2.3_offline/apache-maven-3.2.3/repository/org/springframework/spring-aspects/4.1.3.RELEASE/spring-aspects-4.1.3.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/j2ee_environment_config/maven-3.2.3_offline/apache-maven-3.2.3/repository/org/springframework/spring-aspects/4.1.3.RELEASE/spring-aspects-4.1.3.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/j2ee_environment_config/maven-3.2.3_offline/apache-maven-3.2.3/repository/org/springframework/spring-aspects/4.1.3.RELEASE/spring-aspects-4.1.3.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
