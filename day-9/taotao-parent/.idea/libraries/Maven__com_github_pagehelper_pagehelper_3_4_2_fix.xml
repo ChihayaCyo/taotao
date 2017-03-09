@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.pagehelper:pagehelper:3.4.2-fix">
+    <CLASSES>
+      <root url="jar://D:/j2ee_environment_config/maven-3.2.3_offline/apache-maven-3.2.3/repository/com/github/pagehelper/pagehelper/3.4.2-fix/pagehelper-3.4.2-fix.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/j2ee_environment_config/maven-3.2.3_offline/apache-maven-3.2.3/repository/com/github/pagehelper/pagehelper/3.4.2-fix/pagehelper-3.4.2-fix-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/j2ee_environment_config/maven-3.2.3_offline/apache-maven-3.2.3/repository/com/github/pagehelper/pagehelper/3.4.2-fix/pagehelper-3.4.2-fix-sources.jar!/" />
+      <root url="jar://D:/j2ee_environment_config/maven-3.2.3_offline/apache-maven-3.2.3/repository/com/github/pagehelper/pagehelper/3.4.2/pagehelper-3.4.2.jar!/" />
+      <root url="file://D:/j2ee_environment_config/maven-3.2.3_offline/apache-maven-3.2.3/repository/com/github/pagehelper/pagehelper/3.4.2-fix" />
+      <root url="file://D:/baiduyundownload/淘淘商城项目(有源码)/02.第二天（框架整合，后台系统搭建）（更多视频教程关注微信公众号【菜鸟要飞】）/01.参考资料/pagehelper/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
