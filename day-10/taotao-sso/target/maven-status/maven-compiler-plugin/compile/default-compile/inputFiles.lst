@@ -1,0 +1,6 @@
+D:\Program\IDEA_WS\taotao-sso\src\main\java\com\taotao\sso\service\UserService.java
+D:\Program\IDEA_WS\taotao-sso\src\main\java\com\taotao\sso\controller\UserController.java
+D:\Program\IDEA_WS\taotao-sso\src\main\java\com\taotao\sso\dao\JedisClient.java
+D:\Program\IDEA_WS\taotao-sso\src\main\java\com\taotao\sso\dao\impl\JedisClientCluster.java
+D:\Program\IDEA_WS\taotao-sso\src\main\java\com\taotao\sso\dao\impl\JedisClientSingle.java
+D:\Program\IDEA_WS\taotao-sso\src\main\java\com\taotao\sso\service\impl\UserServiceImpl.java
