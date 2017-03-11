@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: mysql:mysql-connector-java:5.1.32">
+    <CLASSES>
+      <root url="jar://D:/j2ee_environment_config/maven-3.2.3_offline/apache-maven-3.2.3/repository/mysql/mysql-connector-java/5.1.32/mysql-connector-java-5.1.32.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/j2ee_environment_config/maven-3.2.3_offline/apache-maven-3.2.3/repository/mysql/mysql-connector-java/5.1.32/mysql-connector-java-5.1.32-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/j2ee_environment_config/maven-3.2.3_offline/apache-maven-3.2.3/repository/mysql/mysql-connector-java/5.1.32/mysql-connector-java-5.1.32-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -18,18 +18,19 @@
         <property name="suffix" value=".jsp" />
     </bean>
 
-<!--
-    &lt;!&ndash; 静态资源映射 &ndash;&gt; &lt;!&ndash; web.xml拦截为"/"的时候需要配置 否则静态资源会被拦截; 此时不需要 因为是"/rest/" &ndash;&gt;
-    <mvc:resources mapping="/js/**" location="/WEB-INF/js/"/> &lt;!&ndash; 在jsp页面请求/js/**时,都会映射到工程的/js/目录下 &ndash;&gt;
-    <mvc:resources mapping="/css/**" location="/WEB-INF/css/"/>
 
-    &lt;!&ndash; 定义(多)文件上传解析器 &ndash;&gt;
-    <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
-        &lt;!&ndash; 设定默认编码 &ndash;&gt;
-        <property name="defaultEncoding" value="UTF-8"></property>
-        &lt;!&ndash; 设定文件上传的最大值5MB，5*1024*1024 &ndash;&gt;
-        <property name="maxUploadSize" value="5242880"></property>
-    </bean>
-    -->
+    <!-- 静态资源映射 --> <!-- web.xml拦截为"/"的时候需要配置 否则静态资源会被拦截; 此时不需要 因为是"/rest/" -->
+    <mvc:resources mapping="/js/**" location="/WEB-INF/js/"/> <!-- 在jsp页面请求/js/**时,都会映射到工程的/js/目录下 -->
+    <mvc:resources mapping="/css/**" location="/WEB-INF/css/"/>
+    <mvc:resources mapping="/images/**" location="/WEB-INF/images/"/>
+    <!--
+        &lt;!&ndash; 定义(多)文件上传解析器 &ndash;&gt;
+        <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+            &lt;!&ndash; 设定默认编码 &ndash;&gt;
+            <property name="defaultEncoding" value="UTF-8"></property>
+            &lt;!&ndash; 设定文件上传的最大值5MB，5*1024*1024 &ndash;&gt;
+            <property name="maxUploadSize" value="5242880"></property>
+        </bean>
+        -->
 
 </beans>
